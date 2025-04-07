@@ -1,0 +1,21 @@
+{
+	"files.associations": {
+		"glib.h": "c",
+		"galloca.h": "c",
+		"garray.h": "c",
+		"string.h": "c",
+		"gtypes.h": "c",
+		"gmacros.h": "c"
+	},
+	"C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+		"clang-analyzer-security.insecureAPI.DeprecatedOrUnsafeBufferHandling",
+		"bugprone-easily-swappable-parameters"
+	],
+	"cSpell.words": [
+		"gboolean",
+		"gconstpointer",
+		"goffset",
+		"gpointer",
+		"gssize"
+	]
+}
